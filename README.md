@@ -1,4 +1,4 @@
-![MasterHead](https://codilime.com/static/4e6171ff87c8a616662f887b662e82b3/rust-python-which-is-better-header.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*X_FFeLvsgZ0Q-weKkc_byw.gif)
 <h1 align="center">Hi 👋, I'm Zahra</h1>
 
 <h4 align="center">A passionate developer from Saudi Arabia , I'm a computer sciences graduate and a beginner developer with a passion for building web and software applications. My journey into the world of coding has just begun, and I'm excited to learn and grow in the field of technology.</h4>
